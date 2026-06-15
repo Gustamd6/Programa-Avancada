@@ -1,0 +1,8 @@
+1;Febre;Corpo inteiro;MEDIA
+2;Tosse;Sistema respiratório;MEDIA
+3;Dor de cabeça;Cabeça;BAIXA
+4;Falta de ar;Sistema respiratório;ALTA
+5;Dor no corpo;Músculos;MEDIA
+6;Fadiga;Corpo inteiro;BAIXA
+7;Dor de garganta;Garganta;MEDIA
+8;Náusea;Sistema digestivo;BAIXA

@@ -1,0 +1,9 @@
+Resultado da validação local com javac:
+
+Compilou: SIM
+
+Comando usado:
+javac -encoding UTF-8 -d bin $(find src/main/java -name "*.java")
+
+Saída:
+Sem mensagens de erro.
